@@ -4,6 +4,8 @@
     "features": {
       "ghcr.io/devcontainers-contrib/features/jshint:2": {}
     },
+    // Use 'postCreateCommand' to run commands after the container is created.
+    "postCreateCommand": "npm install",
     "customizations": {
         "vscode": {
             "settings": {
