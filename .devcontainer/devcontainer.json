@@ -14,7 +14,6 @@
             "extensions": [
                 "alefragnani.bookmarks", // Booke Marks
                 "eamodio.gitlens", // GitLens
-                "eg2.vscode-npm-script", // npm
                 "dbaeumer.vscode-eslint", // ESLint
                 "christian-kohler.npm-intellisense", // npm Intellisense
                 "christian-kohler.path-intellisense", // Path Intellisense
